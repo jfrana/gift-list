@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Joseph Gift-List</title>
+    <link href="https://jfrana.github.io/gift-list/feed.xml" rel="self" />
+    <link href="https://jfrana.github.io/gift-list" />
+    <updated>2023-08-05T09:09:35-07:00</updated>
+    <author>
+        <name>Joseph</name>
+    </author>
+    <id>https://jfrana.github.io/gift-list</id>
+
+    <entry>
+        <title>Gift List</title>
+        <author>
+            <name>Joseph</name>
+        </author>
+        <link href="https://jfrana.github.io/gift-list/gift-list.html"/>
+        <id>https://jfrana.github.io/gift-list/gift-list.html</id>
+
+        <updated>2023-08-05T09:09:35-07:00</updated>
+            <summary>
+                <![CDATA[
+                    Marking Knife -&nbsp;https://www.leevalley.com/en-gb/shop/tools/hand-tools/marking-and-measuring/marking-tools/110953-japanese-spear-point-marking-knife?item=60N0704
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <ul>
+    <li><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: 1em; font-weight: var(--font-weight-normal);">Marking Knife -&nbsp;https://www.leevalley.com/en-gb/shop/tools/hand-tools/marking-and-measuring/marking-tools/110953-japanese-spear-point-marking-knife?item=60N0704</span></li>
+  </ul>
+            ]]>
+        </content>
+    </entry>
+</feed>
